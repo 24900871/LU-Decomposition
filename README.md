@@ -8,15 +8,18 @@ To write a program to find the LU Decomposition of a matrix.
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
 
 Algorithm
+
 Step1 : Import the numpy module to use the built-in functions for calculation
 Step 2: Prepare the lists from each equations and assign in np.array()
 Step 3: Using the np.linalg.matrix_rank(), we can find the inverse of the given matrix
 Step 4: End the program
+
 Program:
 
 (i) To find the L and U matrix
 
 '''Program to find L and U matrix using LU decomposition.
+
 Developed by: JOTHIMANI P
 RegisterNumber: 212224230108
 ~~~
@@ -31,6 +34,7 @@ print(U)
 (ii) To find the LU Decomposition of a matrix
 
 '''Program to solve a matrix using LU decomposition.
+
 Developed by:JOTHIMANI P
 RegisterNumber:212224230108
 ~~~
