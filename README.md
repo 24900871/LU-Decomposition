@@ -9,10 +9,13 @@ To write a program to find the LU Decomposition of a matrix.
 
 Algorithm
 
-Step1 : Import the numpy module to use the built-in functions for calculation
-Step 2: Prepare the lists from each equations and assign in np.array()
-Step 3: Using the np.linalg.matrix_rank(), we can find the inverse of the given matrix
-Step 4: End the program
+1.Import numpy
+
+2.From scipy.linalg import lu,lu_factor,lu_solve respectively
+
+3.Get the input of matrix values from user using eval
+
+4.Print and solce LU decomposition using lu_solve() function
 
 Program:
 
